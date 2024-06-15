@@ -1,0 +1,2498 @@
+[
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LIS",
+      "latitude": "38.770043",
+      "longitude": "-9.128165",
+      "city_name": "Lisbon",
+      "name": "Lisbon Airport",
+      "display_name": "Lisbon (LIS), Portugal",
+      "country_code": "PT",
+      "country": "Portugal"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "PMI",
+      "latitude": "39.547654",
+      "longitude": "2.730388",
+      "city_name": "Palma de Mallorca",
+      "name": "Palma De Mallorca Airport",
+      "display_name": "Palma de Mallorca (PMI), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BCN",
+      "latitude": "41.303027",
+      "longitude": "2.07593",
+      "city_name": "Barcelona",
+      "name": "El Prat Airport",
+      "display_name": "Barcelona (BCN), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LPA",
+      "latitude": "27.932398",
+      "longitude": "-15.384626",
+      "city_name": "Las Palmas",
+      "name": "Gran Canaria Airport",
+      "display_name": "Las Palmas (LPA), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "FCO",
+      "latitude": "41.794594",
+      "longitude": "12.250346",
+      "city_name": "Rome",
+      "name": "Fiumicino",
+      "display_name": "Rome (FCO), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "TFN",
+      "latitude": "28.488057",
+      "longitude": "-16.345982",
+      "city_name": "Tenerife",
+      "name": "Tenerife North",
+      "display_name": "Tenerife (TFN), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LHR",
+      "latitude": "51.469603",
+      "longitude": "-0.453566",
+      "city_name": "London",
+      "name": "Heathrow",
+      "display_name": "London (LHR), United Kingdom",
+      "country_code": "GB",
+      "country": "United Kingdom"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "ORY",
+      "latitude": "48.728283",
+      "longitude": "2.3597",
+      "city_name": "Paris",
+      "name": "Orly Airport",
+      "display_name": "Paris (ORY), France",
+      "country_code": "FR",
+      "country": "France"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "OPO",
+      "latitude": "41.237774",
+      "longitude": "-8.670272",
+      "city_name": "Porto",
+      "name": "Porto Airport",
+      "display_name": "Porto (OPO), Portugal",
+      "country_code": "PT",
+      "country": "Portugal"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CDG",
+      "latitude": "49.003196",
+      "longitude": "2.567023",
+      "city_name": "Paris",
+      "name": "Charles De Gaulle",
+      "display_name": "Paris (CDG), France",
+      "country_code": "FR",
+      "country": "France"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "AMS",
+      "latitude": "52.309069",
+      "longitude": "4.763385",
+      "city_name": "Amsterdam",
+      "name": "Schiphol",
+      "display_name": "Amsterdam (AMS), Netherlands",
+      "country_code": "NL",
+      "country": "Netherlands"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BRU",
+      "latitude": "50.89717",
+      "longitude": "4.483602",
+      "city_name": "Brussels",
+      "name": "Brussels Airport",
+      "display_name": "Brussels (BRU), Belgium",
+      "country_code": "BE",
+      "country": "Belgium"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "FRA",
+      "latitude": "50.048952",
+      "longitude": "8.573678",
+      "city_name": "Frankfurt",
+      "name": "Frankfurt Airport",
+      "display_name": "Frankfurt (FRA), Germany",
+      "country_code": "DE",
+      "country": "Germany"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BIO",
+      "latitude": "43.305535",
+      "longitude": "-2.905808",
+      "city_name": "Bilbao",
+      "name": "Bilbao Airport",
+      "display_name": "Bilbao (BIO), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "MUC",
+      "latitude": "48.353005",
+      "longitude": "11.790143",
+      "city_name": "Munich",
+      "name": "Munich Airport",
+      "display_name": "Munich (MUC), Germany",
+      "country_code": "DE",
+      "country": "Germany"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LCG",
+      "latitude": "43.30236",
+      "longitude": "-8.381923",
+      "city_name": "La Coruna",
+      "name": "A Coruna",
+      "display_name": "La Coruna (LCG), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "MXP",
+      "latitude": "45.627405",
+      "longitude": "8.71237",
+      "city_name": "Milan",
+      "name": "Milan Malpensa Airport",
+      "display_name": "Milan (MXP), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SCQ",
+      "latitude": "42.896308",
+      "longitude": "-8.415125",
+      "city_name": "Santiago De Compostela",
+      "name": "Santiago",
+      "display_name": "Santiago De Compostela (SCQ), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "VGO",
+      "latitude": "42.224551",
+      "longitude": "-8.634025",
+      "city_name": "Vigo",
+      "name": "Vigo",
+      "display_name": "Vigo (VGO), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BOG",
+      "latitude": "4.698602",
+      "longitude": "-74.143136",
+      "city_name": "Bogota",
+      "name": "El Dorado International Airport",
+      "display_name": "Bogota (BOG), Colombia",
+      "country_code": "CO",
+      "country": "Colombia"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "IBZ",
+      "latitude": "38.876595",
+      "longitude": "1.367803",
+      "city_name": "Ibiza",
+      "name": "Ibiza Airport",
+      "display_name": "Ibiza (IBZ), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "ZRH",
+      "latitude": "47.450604",
+      "longitude": "8.561746",
+      "city_name": "Zurich",
+      "name": "Zurich Airport",
+      "display_name": "Zurich (ZRH), Switzerland",
+      "country_code": "CH",
+      "country": "Switzerland"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "AGP",
+      "latitude": "36.675181",
+      "longitude": "-4.489616",
+      "city_name": "Malaga",
+      "name": "Málaga Airport",
+      "display_name": "Malaga (AGP), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "MEX",
+      "latitude": "19.435278",
+      "longitude": "-99.072778",
+      "city_name": "Mexico City",
+      "name": "Mexico City International Airport",
+      "display_name": "Mexico City (MEX), Mexico",
+      "country_code": "MX",
+      "country": "Mexico"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "GVA",
+      "latitude": "46.229634",
+      "longitude": "6.105774",
+      "city_name": "Geneva",
+      "name": "Geneva Airport",
+      "display_name": "Geneva (GVA), Switzerland",
+      "country_code": "CH",
+      "country": "Switzerland"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LGW",
+      "latitude": "51.150836",
+      "longitude": "-0.177416",
+      "city_name": "London",
+      "name": "Gatwick",
+      "display_name": "London (LGW), United Kingdom",
+      "country_code": "GB",
+      "country": "United Kingdom"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "EZE",
+      "latitude": "-34.81273",
+      "longitude": "-58.539834",
+      "city_name": "Buenos Aires",
+      "name": "Ministro Pistarini International Airport",
+      "display_name": "Buenos Aires (EZE), Argentina",
+      "country_code": "AR",
+      "country": "Argentina"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "VLC",
+      "latitude": "39.491792",
+      "longitude": "-0.473475",
+      "city_name": "Valencia",
+      "name": "Valencia Arport",
+      "display_name": "Valencia (VLC), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "ALC",
+      "latitude": "38.287098",
+      "longitude": "-0.557381",
+      "city_name": "Alicante",
+      "name": "Alicante–Elche Miguel Hernández Airport",
+      "display_name": "Alicante (ALC), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "ACE",
+      "latitude": "28.950668",
+      "longitude": "-13.609059",
+      "city_name": "Lanzarote",
+      "name": "Lanzarote Airport",
+      "display_name": "Lanzarote (ACE), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "JFK",
+      "latitude": "40.642335",
+      "longitude": "-73.78817",
+      "city_name": "New York",
+      "name": "John F Kennedy International",
+      "display_name": "New York (JFK), USA",
+      "country_code": "US",
+      "country": "USA"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "DUB",
+      "latitude": "53.42728",
+      "longitude": "-6.24357",
+      "city_name": "Dublin",
+      "name": "Dublin Airport",
+      "display_name": "Dublin (DUB), Ireland",
+      "country_code": "IE",
+      "country": "Ireland"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LIM",
+      "latitude": "-12.024763",
+      "longitude": "-77.10879",
+      "city_name": "Lima",
+      "name": "Jorge Chávez International Airport",
+      "display_name": "Lima (LIM), Peru",
+      "country_code": "PE",
+      "country": "Peru"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "MAH",
+      "latitude": "39.86503",
+      "longitude": "4.224099",
+      "city_name": "Menorca",
+      "name": "Menorca Airport",
+      "display_name": "Menorca (MAH), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "VCE",
+      "latitude": "45.502285",
+      "longitude": "12.337947",
+      "city_name": "Venice",
+      "name": "Venice Marco Polo Airport",
+      "display_name": "Venice (VCE), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "ATH",
+      "latitude": "37.93635",
+      "longitude": "23.946486",
+      "city_name": "Athens",
+      "name": "Athens International Airport",
+      "display_name": "Athens (ATH), Greece",
+      "country_code": "GR",
+      "country": "Greece"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BER",
+      "latitude": "52.366667",
+      "longitude": "13.503333",
+      "city_name": "Berlin",
+      "name": "Berlin Brandenburg Airport",
+      "display_name": "Berlin (BER), Germany",
+      "country_code": "DE",
+      "country": "Germany"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "MIA",
+      "latitude": "25.796",
+      "longitude": "-80.278234",
+      "city_name": "Miami",
+      "name": "Miami International",
+      "display_name": "Miami (MIA), USA",
+      "country_code": "US",
+      "country": "USA"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "MRS",
+      "latitude": "43.44178",
+      "longitude": "5.222137",
+      "city_name": "Marseille",
+      "name": "Marseille Provence Airport",
+      "display_name": "Marseille (MRS), France",
+      "country_code": "FR",
+      "country": "France"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "VIE",
+      "latitude": "48.11972",
+      "longitude": "16.563583",
+      "city_name": "Vienna",
+      "name": "Vienna International Airport",
+      "display_name": "Vienna (VIE), Austria",
+      "country_code": "AT",
+      "country": "Austria"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BLQ",
+      "latitude": "44.529268",
+      "longitude": "11.293289",
+      "city_name": "Bologna",
+      "name": "Bologna Guglielmo Marconi Airport",
+      "display_name": "Bologna (BLQ), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "DUS",
+      "latitude": "51.278327",
+      "longitude": "6.76558",
+      "city_name": "Dusseldorf",
+      "name": "Dusseldorf Airport",
+      "display_name": "Dusseldorf (DUS), Germany",
+      "country_code": "DE",
+      "country": "Germany"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "OVD",
+      "latitude": "43.55891",
+      "longitude": "-6.032094",
+      "city_name": "Asturias",
+      "name": "Asturias",
+      "display_name": "Asturias (OVD), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "RAK",
+      "latitude": "31.601875",
+      "longitude": "-8.026902",
+      "city_name": "Marrakech",
+      "name": "Marrakesh Menara Airport",
+      "display_name": "Marrakech (RAK), Morocco",
+      "country_code": "MA",
+      "country": "Morocco"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SVQ",
+      "latitude": "37.423476",
+      "longitude": "-5.900136",
+      "city_name": "Sevilla",
+      "name": "Seville Airport",
+      "display_name": "Sevilla (SVQ), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LYS",
+      "latitude": "45.721426",
+      "longitude": "5.080334",
+      "city_name": "Lyon",
+      "name": "Lyon–Saint-Exupéry Airport",
+      "display_name": "Lyon (LYS), France",
+      "country_code": "FR",
+      "country": "France"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "MLN",
+      "latitude": "35.277078",
+      "longitude": "-2.957473",
+      "city_name": "Melilla",
+      "name": "Melilla",
+      "display_name": "Melilla (MLN), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "IST",
+      "latitude": "41.260278",
+      "longitude": "28.741944",
+      "city_name": "Istanbul",
+      "name": "Istanbul Airport",
+      "display_name": "Istanbul (IST), Turkiye",
+      "country_code": "TR",
+      "country": "Turkiye"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "FUE",
+      "latitude": "28.450605",
+      "longitude": "-13.869893",
+      "city_name": "Puerto del Rosario",
+      "name": "Fuerteventura Airport",
+      "display_name": "Puerto del Rosario (FUE), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LIN",
+      "latitude": "45.460958",
+      "longitude": "9.279157",
+      "city_name": "Milan",
+      "name": "Linate",
+      "display_name": "Milan (LIN), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SCL",
+      "latitude": "-33.397175",
+      "longitude": "-70.793821",
+      "city_name": "Santiago",
+      "name": "Arturo Merino Benítez International Airport",
+      "display_name": "Santiago (SCL), Chile",
+      "country_code": "CL",
+      "country": "Chile"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "TLS",
+      "latitude": "43.630071",
+      "longitude": "1.374321",
+      "city_name": "Toulouse",
+      "name": "Toulouse–Blagnac Airport",
+      "display_name": "Toulouse (TLS), France",
+      "country_code": "FR",
+      "country": "France"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "XRY",
+      "latitude": "36.750614",
+      "longitude": "-6.064535",
+      "city_name": "Jerez De La Frontera",
+      "name": "Jerez",
+      "display_name": "Jerez De La Frontera (XRY), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CMN",
+      "latitude": "33.366667",
+      "longitude": "-7.586667",
+      "city_name": "Casablanca",
+      "name": "Mohammed V International Airport",
+      "display_name": "Casablanca (CMN), Morocco",
+      "country_code": "MA",
+      "country": "Morocco"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "GRU",
+      "latitude": "-23.425668",
+      "longitude": "-46.481926",
+      "city_name": "Sao Paulo",
+      "name": "São Paulo/Guarulhos International Airport",
+      "display_name": "Sao Paulo (GRU), Brazil",
+      "country_code": "BR",
+      "country": "Brazil"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LEI",
+      "latitude": "36.847984",
+      "longitude": "-2.371873",
+      "city_name": "Almeria",
+      "name": "Almeria",
+      "display_name": "Almeria (LEI), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "TFS",
+      "latitude": "28.044444",
+      "longitude": "-16.5725",
+      "city_name": "Tenerife",
+      "name": "Tenerife South Airport",
+      "display_name": "Tenerife (TFS), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "TLV",
+      "latitude": "32.000454",
+      "longitude": "34.870741",
+      "city_name": "Tel Aviv-Yafo",
+      "name": "Ben Gurion International Airport",
+      "display_name": "Tel Aviv-Yafo (TLV), Israel",
+      "country_code": "IL",
+      "country": "Israel"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "NCE",
+      "latitude": "43.660488",
+      "longitude": "7.205232",
+      "city_name": "Nice",
+      "name": "Cote D Azur Airport",
+      "display_name": "Nice (NCE), France",
+      "country_code": "FR",
+      "country": "France"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "PNA",
+      "latitude": "42.767497",
+      "longitude": "-1.639347",
+      "city_name": "Pamplona",
+      "name": "Pamplona",
+      "display_name": "Pamplona (PNA), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SDR",
+      "latitude": "43.423086",
+      "longitude": "-3.824453",
+      "city_name": "Santander",
+      "name": "Santander",
+      "display_name": "Santander (SDR), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "TNG",
+      "latitude": "35.726286",
+      "longitude": "-5.912898",
+      "city_name": "Tangier",
+      "name": "Ibn Batouta",
+      "display_name": "Tangier (TNG), Morocco",
+      "country_code": "MA",
+      "country": "Morocco"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "DOH",
+      "latitude": "25.260988",
+      "longitude": "51.613594",
+      "city_name": "Doha",
+      "name": "Hamad International Airport",
+      "display_name": "Doha (DOH), Qatar",
+      "country_code": "QA",
+      "country": "Qatar"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "EAS",
+      "latitude": "43.356401",
+      "longitude": "-1.793538",
+      "city_name": "San Sebastian",
+      "name": "San Sebastian",
+      "display_name": "San Sebastian (EAS), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "GRX",
+      "latitude": "37.184728",
+      "longitude": "-3.776954",
+      "city_name": "Granada",
+      "name": "Granada",
+      "display_name": "Granada (GRX), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "PRG",
+      "latitude": "50.106188",
+      "longitude": "14.266638",
+      "city_name": "Prague",
+      "name": "Václav Havel Airport Prague",
+      "display_name": "Prague (PRG), Czech Republic",
+      "country_code": "CZ",
+      "country": "Czech Republic"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "STN",
+      "latitude": "51.889267",
+      "longitude": "0.262703",
+      "city_name": "London",
+      "name": "Stansted",
+      "display_name": "London (STN), United Kingdom",
+      "country_code": "GB",
+      "country": "United Kingdom"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "OTP",
+      "latitude": "44.571155",
+      "longitude": "26.077063",
+      "city_name": "Bucharest",
+      "name": "Henri Coandă International Airport",
+      "display_name": "Bucharest (OTP), Romania",
+      "country_code": "RO",
+      "country": "Romania"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "NTE",
+      "latitude": "47.157623",
+      "longitude": "-1.601402",
+      "city_name": "Nantes",
+      "name": "Nantes Airport",
+      "display_name": "Nantes (NTE), France",
+      "country_code": "FR",
+      "country": "France"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "FLR",
+      "latitude": "43.802126",
+      "longitude": "11.201989",
+      "city_name": "Florence",
+      "name": "Peretola",
+      "display_name": "Florence (FLR), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "NAP",
+      "latitude": "40.886111",
+      "longitude": "14.291667",
+      "city_name": "Naples",
+      "name": "Naples International Airport",
+      "display_name": "Naples (NAP), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "HAM",
+      "latitude": "53.631279",
+      "longitude": "10.006414",
+      "city_name": "Hamburg",
+      "name": "Hamburg Airport",
+      "display_name": "Hamburg (HAM), Germany",
+      "country_code": "DE",
+      "country": "Germany"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SDQ",
+      "latitude": "18.430125",
+      "longitude": "-69.676742",
+      "city_name": "Santo Domingo",
+      "name": "Las Americas International",
+      "display_name": "Santo Domingo (SDQ), Dominican Republic",
+      "country_code": "DO",
+      "country": "Dominican Republic"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BOD",
+      "latitude": "44.83102",
+      "longitude": "-0.70217",
+      "city_name": "Bordeaux",
+      "name": "Bordeaux–Mérignac Airport",
+      "display_name": "Bordeaux (BOD), France",
+      "country_code": "FR",
+      "country": "France"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BUD",
+      "latitude": "47.433037",
+      "longitude": "19.261621",
+      "city_name": "Budapest",
+      "name": "Budapest Ferenc Liszt International Airport",
+      "display_name": "Budapest (BUD), Hungary",
+      "country_code": "HU",
+      "country": "Hungary"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CCS",
+      "latitude": "10.596942",
+      "longitude": "-67.005511",
+      "city_name": "Caracas",
+      "name": "Simon Bolivar International",
+      "display_name": "Caracas (CCS), Venezuela",
+      "country_code": "VE",
+      "country": "Venezuela"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "WAW",
+      "latitude": "52.170906",
+      "longitude": "20.973289",
+      "city_name": "Warsaw",
+      "name": "Warsaw Chopin Airport",
+      "display_name": "Warsaw (WAW), Poland",
+      "country_code": "PL",
+      "country": "Poland"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CPH",
+      "latitude": "55.629053",
+      "longitude": "12.647601",
+      "city_name": "Copenhagen",
+      "name": "Copenhagen Airport",
+      "display_name": "Copenhagen (CPH), Denmark",
+      "country_code": "DK",
+      "country": "Denmark"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "DXB",
+      "latitude": "25.248664",
+      "longitude": "55.352916",
+      "city_name": "Dubai",
+      "name": "Dubai International",
+      "display_name": "Dubai (DXB), United Arab Emirates",
+      "country_code": "AE",
+      "country": "United Arab Emirates"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "HAV",
+      "latitude": "22.998449",
+      "longitude": "-82.408183",
+      "city_name": "Havana",
+      "name": "Jose Marti International",
+      "display_name": "Havana (HAV), Cuba",
+      "country_code": "CU",
+      "country": "Cuba"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "PHL",
+      "latitude": "39.876413",
+      "longitude": "-75.243305",
+      "city_name": "Philadelphia",
+      "name": "Philadelphia International Airport",
+      "display_name": "Philadelphia (PHL), USA",
+      "country_code": "US",
+      "country": "USA"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CLT",
+      "latitude": "35.219167",
+      "longitude": "-80.935833",
+      "city_name": "Charlotte",
+      "name": "Charlotte Douglas International",
+      "display_name": "Charlotte (CLT), USA",
+      "country_code": "US",
+      "country": "USA"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "DFW",
+      "latitude": "32.897462",
+      "longitude": "-97.036128",
+      "city_name": "Dallas",
+      "name": "Dallas Fort Worth International",
+      "display_name": "Dallas (DFW), USA",
+      "country_code": "US",
+      "country": "USA"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "EDI",
+      "latitude": "55.948143",
+      "longitude": "-3.364177",
+      "city_name": "Edinburgh",
+      "name": "Edinburgh Airport",
+      "display_name": "Edinburgh (EDI), United Kingdom",
+      "country_code": "GB",
+      "country": "United Kingdom"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "OSL",
+      "latitude": "60.194192",
+      "longitude": "11.100411",
+      "city_name": "Oslo",
+      "name": "Oslo Gardermoen Airport",
+      "display_name": "Oslo (OSL), Norway",
+      "country_code": "NO",
+      "country": "Norway"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CAI",
+      "latitude": "30.120106",
+      "longitude": "31.406469",
+      "city_name": "Cairo",
+      "name": "Cairo International Airport",
+      "display_name": "Cairo (CAI), Egypt",
+      "country_code": "EG",
+      "country": "Egypt"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SOF",
+      "latitude": "42.688342",
+      "longitude": "23.414431",
+      "city_name": "Sofia",
+      "name": "Sofia Airport",
+      "display_name": "Sofia (SOF), Bulgaria",
+      "country_code": "BG",
+      "country": "Bulgaria"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "UIO",
+      "latitude": "-0.123811",
+      "longitude": "-78.355976",
+      "city_name": "Quito",
+      "name": "Mariscal Sucre International",
+      "display_name": "Quito (UIO), Ecuador",
+      "country_code": "EC",
+      "country": "Ecuador"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BGY",
+      "latitude": "45.665315",
+      "longitude": "9.698713",
+      "city_name": "Milan",
+      "name": "Orio al Serio International Airport",
+      "display_name": "Milan (BGY), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "IAD",
+      "latitude": "38.95315",
+      "longitude": "-77.447735",
+      "city_name": "Dulles",
+      "name": "Washington Dulles International",
+      "display_name": "Dulles (IAD), USA",
+      "country_code": "US",
+      "country": "USA"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "MAN",
+      "latitude": "53.362908",
+      "longitude": "-2.273354",
+      "city_name": "Manchester",
+      "name": "Manchester Airport",
+      "display_name": "Manchester (MAN), United Kingdom",
+      "country_code": "GB",
+      "country": "United Kingdom"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "MVD",
+      "latitude": "-34.841154",
+      "longitude": "-56.026466",
+      "city_name": "Montevideo",
+      "name": "Carrasco International",
+      "display_name": "Montevideo (MVD), Uruguay",
+      "country_code": "UY",
+      "country": "Uruguay"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SAW",
+      "latitude": "40.904676",
+      "longitude": "29.309188",
+      "city_name": "Istanbul",
+      "name": "Istanbul Sabiha Gökçen International Airport",
+      "display_name": "Istanbul (SAW), Turkiye",
+      "country_code": "TR",
+      "country": "Turkiye"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "ARN",
+      "latitude": "59.649818",
+      "longitude": "17.930364",
+      "city_name": "Stockholm",
+      "name": "Stockholm Arlanda Airport",
+      "display_name": "Stockholm (ARN), Sweden",
+      "country_code": "SE",
+      "country": "Sweden"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BJZ",
+      "latitude": "38.893312",
+      "longitude": "-6.819564",
+      "city_name": "Badajoz",
+      "name": "Talavera La Real",
+      "display_name": "Badajoz (BJZ), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LUX",
+      "latitude": "49.631113",
+      "longitude": "6.209539",
+      "city_name": "Luxembourg",
+      "name": "Luxembourg Airport",
+      "display_name": "Luxembourg (LUX), Luxembourg",
+      "country_code": "LU",
+      "country": "Luxembourg"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "MDE",
+      "latitude": "6.171382",
+      "longitude": "-75.428206",
+      "city_name": "Medellin",
+      "name": "Jose Maria Cordova",
+      "display_name": "Medellin (MDE), Colombia",
+      "country_code": "CO",
+      "country": "Colombia"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "PTY",
+      "latitude": "9.066897",
+      "longitude": "-79.387639",
+      "city_name": "Panama City",
+      "name": "Tocumen International",
+      "display_name": "Panama City (PTY), Panama",
+      "country_code": "PA",
+      "country": "Panama"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SPC",
+      "latitude": "28.626389",
+      "longitude": "-17.755556",
+      "city_name": "Santa Cruz De La Palma",
+      "name": "La Palma",
+      "display_name": "Santa Cruz De La Palma (SPC), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "AUH",
+      "latitude": "24.426912",
+      "longitude": "54.645974",
+      "city_name": "Abu Dhabi",
+      "name": "Zayed International Airport",
+      "display_name": "Abu Dhabi (AUH), United Arab Emirates",
+      "country_code": "AE",
+      "country": "United Arab Emirates"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CUN",
+      "latitude": "21.040457",
+      "longitude": "-86.874439",
+      "city_name": "Cancun",
+      "name": "Cancun International Airport",
+      "display_name": "Cancun (CUN), Mexico",
+      "country_code": "MX",
+      "country": "Mexico"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "DBV",
+      "latitude": "42.560718",
+      "longitude": "18.260617",
+      "city_name": "Dubrovnik",
+      "name": "Dubrovnik Airport",
+      "display_name": "Dubrovnik (DBV), Croatia",
+      "country_code": "HR",
+      "country": "Croatia"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "DSS",
+      "latitude": "14.670754",
+      "longitude": "-17.070913",
+      "city_name": "Dakar",
+      "name": "Blaise Diagne Interantional Airport",
+      "display_name": "Dakar (DSS), Senegal",
+      "country_code": "SN",
+      "country": "Senegal"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "FAO",
+      "latitude": "37.020646",
+      "longitude": "-7.968545",
+      "city_name": "Faro",
+      "name": "Faro Airport",
+      "display_name": "Faro (FAO), Portugal",
+      "country_code": "PT",
+      "country": "Portugal"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "MLA",
+      "latitude": "35.849776",
+      "longitude": "14.495401",
+      "city_name": "Malta",
+      "name": "Malta International Airport",
+      "display_name": "Malta (MLA), Malta",
+      "country_code": "MT",
+      "country": "Malta"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SJO",
+      "latitude": "9.998238",
+      "longitude": "-84.20408",
+      "city_name": "San Jose",
+      "name": "Juan Santamaria International",
+      "display_name": "San Jose (SJO), Costa Rica",
+      "country_code": "CR",
+      "country": "Costa Rica"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "TRN",
+      "latitude": "45.191455",
+      "longitude": "7.643049",
+      "city_name": "Turin",
+      "name": "Turin Airport",
+      "display_name": "Turin (TRN), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "TUN",
+      "latitude": "36.847621",
+      "longitude": "10.21709",
+      "city_name": "Tunis",
+      "name": "Tunis–Carthage International Airport",
+      "display_name": "Tunis (TUN), Tunisia",
+      "country_code": "TN",
+      "country": "Tunisia"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "AMM",
+      "latitude": "31.722535",
+      "longitude": "35.989318",
+      "city_name": "Amman",
+      "name": "Queen Alia International",
+      "display_name": "Amman (AMM), Jordan",
+      "country_code": "JO",
+      "country": "Jordan"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "PUJ",
+      "latitude": "18.562477",
+      "longitude": "-68.363998",
+      "city_name": "Punta Cana",
+      "name": "Punta Cana International Airport",
+      "display_name": "Punta Cana (PUJ), Dominican Republic",
+      "country_code": "DO",
+      "country": "Dominican Republic"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "YUL",
+      "latitude": "45.457715",
+      "longitude": "-73.749906",
+      "city_name": "Montreal",
+      "name": "Pierre Elliott Trudeau International",
+      "display_name": "Montreal (YUL), Canada",
+      "country_code": "CA",
+      "country": "Canada"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "EWR",
+      "latitude": "40.689071",
+      "longitude": "-74.178753",
+      "city_name": "New York",
+      "name": "Newark Liberty International",
+      "display_name": "New York (EWR), USA",
+      "country_code": "US",
+      "country": "USA"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "GDL",
+      "latitude": "20.52181",
+      "longitude": "-103.311163",
+      "city_name": "Guadalajara",
+      "name": "Guadalajara International Airport ",
+      "display_name": "Guadalajara (GDL), Mexico",
+      "country_code": "MX",
+      "country": "Mexico"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "MTY",
+      "latitude": "25.776569",
+      "longitude": "-100.114395",
+      "city_name": "Monterrey",
+      "name": "Monterrey International Airport",
+      "display_name": "Monterrey (MTY), Mexico",
+      "country_code": "MX",
+      "country": "Mexico"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "HEL",
+      "latitude": "60.317953",
+      "longitude": "24.966449",
+      "city_name": "Helsinki",
+      "name": "Helsinki Airport",
+      "display_name": "Helsinki (HEL), Finland",
+      "country_code": "FI",
+      "country": "Finland"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LAX",
+      "latitude": "33.943399",
+      "longitude": "-118.408279",
+      "city_name": "Los Angeles",
+      "name": "Los Angeles International",
+      "display_name": "Los Angeles (LAX), USA",
+      "country_code": "US",
+      "country": "USA"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "ORD",
+      "latitude": "41.976912",
+      "longitude": "-87.904876",
+      "city_name": "Chicago",
+      "name": "Chicago Ohare International",
+      "display_name": "Chicago (ORD), USA",
+      "country_code": "US",
+      "country": "USA"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "PEK",
+      "latitude": "40.078538",
+      "longitude": "116.587095",
+      "city_name": "Beijing",
+      "name": "Beijing Capital International Airport",
+      "display_name": "Beijing (PEK), China",
+      "country_code": "CN",
+      "country": "China"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "PVG",
+      "latitude": "31.151824",
+      "longitude": "121.799808",
+      "city_name": "Shanghai",
+      "name": "Shanghai Pudong International Airport",
+      "display_name": "Shanghai (PVG), China",
+      "country_code": "CN",
+      "country": "China"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "VVI",
+      "latitude": "-17.648234",
+      "longitude": "-63.140489",
+      "city_name": "Santa Cruz",
+      "name": "Santa Cruz",
+      "display_name": "Santa Cruz (VVI), Bolivia",
+      "country_code": "BO",
+      "country": "Bolivia"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "ATL",
+      "latitude": "33.640067",
+      "longitude": "-84.44403",
+      "city_name": "Atlanta",
+      "name": "Hartsfield–Jackson Atlanta International Airport",
+      "display_name": "Atlanta (ATL), USA",
+      "country_code": "US",
+      "country": "USA"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BOS",
+      "latitude": "42.36646",
+      "longitude": "-71.020176",
+      "city_name": "Boston",
+      "name": "General Edward Lawrence Logan International",
+      "display_name": "Boston (BOS), USA",
+      "country_code": "US",
+      "country": "USA"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BRS",
+      "latitude": "51.386756",
+      "longitude": "-2.710659",
+      "city_name": "Bristol",
+      "name": "Bristol Airport",
+      "display_name": "Bristol (BRS), United Kingdom",
+      "country_code": "GB",
+      "country": "United Kingdom"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CTA",
+      "latitude": "37.470663",
+      "longitude": "15.065877",
+      "city_name": "Catania",
+      "name": "Catania Fontanarossa Airport",
+      "display_name": "Catania (CTA), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "GIG",
+      "latitude": "-22.814654",
+      "longitude": "-43.24651",
+      "city_name": "Rio De Janeiro",
+      "name": "Galeao Antonio Carlos Jobim",
+      "display_name": "Rio De Janeiro (GIG), Brazil",
+      "country_code": "BR",
+      "country": "Brazil"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "TIA",
+      "latitude": "41.419133",
+      "longitude": "19.71328",
+      "city_name": "Tirana",
+      "name": "Tirana International Airport Nënë Tereza",
+      "display_name": "Tirana (TIA), Albania",
+      "country_code": "AL",
+      "country": "Albania"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "GUA",
+      "latitude": "14.588071",
+      "longitude": "-90.530679",
+      "city_name": "Guatemala City",
+      "name": "La Aurora",
+      "display_name": "Guatemala City (GUA), Guatemala",
+      "country_code": "GT",
+      "country": "Guatemala"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "GYE",
+      "latitude": "-2.142654",
+      "longitude": "-79.880321",
+      "city_name": "Guayaquil",
+      "name": "Simon Bolivar International",
+      "display_name": "Guayaquil (GYE), Ecuador",
+      "country_code": "EC",
+      "country": "Ecuador"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "RBA",
+      "latitude": "34.036138",
+      "longitude": "-6.748619",
+      "city_name": "Rabat",
+      "name": "Sale",
+      "display_name": "Rabat (RBA), Morocco",
+      "country_code": "MA",
+      "country": "Morocco"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SJU",
+      "latitude": "18.437403",
+      "longitude": "-66.004683",
+      "city_name": "San Juan",
+      "name": "Luis Munoz Marin International",
+      "display_name": "San Juan (SJU), Puerto Rico",
+      "country_code": "PR",
+      "country": "Puerto Rico"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "VRN",
+      "latitude": "45.40233",
+      "longitude": "10.906796",
+      "city_name": "Verona",
+      "name": "Verona Villafranca Airport",
+      "display_name": "Verona (VRN), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "ALG",
+      "latitude": "36.697892",
+      "longitude": "3.207136",
+      "city_name": "Algiers",
+      "name": "Houari Boumediene Airport",
+      "display_name": "Algiers (ALG), Algeria",
+      "country_code": "DZ",
+      "country": "Algeria"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BSL",
+      "latitude": "47.599608",
+      "longitude": "7.532604",
+      "city_name": "Basel, Switzerland/Mulhouse",
+      "name": "EuroAirport Basel Mulhouse Freiburg",
+      "display_name": "Basel, Switzerland/Mulhouse (BSL), France",
+      "country_code": "FR",
+      "country": "France"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CRL",
+      "latitude": "50.459206",
+      "longitude": "4.45382",
+      "city_name": "Brussels",
+      "name": "Brussels South Charleroi Airport",
+      "display_name": "Brussels (CRL), Belgium",
+      "country_code": "BE",
+      "country": "Belgium"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SXB",
+      "latitude": "48.544877",
+      "longitude": "7.627674",
+      "city_name": "Strasbourg",
+      "name": "Entzheim",
+      "display_name": "Strasbourg (SXB), France",
+      "country_code": "FR",
+      "country": "France"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "YYZ",
+      "latitude": "43.681585",
+      "longitude": "-79.61146",
+      "city_name": "Toronto",
+      "name": "Pearson International",
+      "display_name": "Toronto (YYZ), Canada",
+      "country_code": "CA",
+      "country": "Canada"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "ZAG",
+      "latitude": "45.733242",
+      "longitude": "16.061519",
+      "city_name": "Zagreb",
+      "name": "Zagreb Airport",
+      "display_name": "Zagreb (ZAG), Croatia",
+      "country_code": "HR",
+      "country": "Croatia"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CDT",
+      "latitude": "40.213889",
+      "longitude": "0.073333",
+      "city_name": "Benlloch",
+      "name": "Castellon-Costa Azahar Airport",
+      "display_name": "Benlloch (CDT), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "ASU",
+      "latitude": "-25.241795",
+      "longitude": "-57.513795",
+      "city_name": "Asuncion",
+      "name": "Silvio Pettirossi International",
+      "display_name": "Asuncion (ASU), Paraguay",
+      "country_code": "PY",
+      "country": "Paraguay"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BVA",
+      "latitude": "49.459488",
+      "longitude": "2.110815",
+      "city_name": "Paris",
+      "name": "Beauvais–Tillé Airport",
+      "display_name": "Paris (BVA), France",
+      "country_code": "FR",
+      "country": "France"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CLJ",
+      "latitude": "46.782061",
+      "longitude": "23.687014",
+      "city_name": "Cluj-Napoca",
+      "name": "Cluj International Airport",
+      "display_name": "Cluj-Napoca (CLJ), Romania",
+      "country_code": "RO",
+      "country": "Romania"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "FNC",
+      "latitude": "32.693121",
+      "longitude": "-16.775635",
+      "city_name": "Funchal",
+      "name": "Madeira Airport",
+      "display_name": "Funchal (FNC), Portugal",
+      "country_code": "PT",
+      "country": "Portugal"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "TTU",
+      "latitude": "35.591244",
+      "longitude": "-5.330265",
+      "city_name": "Tetouan",
+      "name": "Saniat Rmel",
+      "display_name": "Tetouan (TTU), Morocco",
+      "country_code": "MA",
+      "country": "Morocco"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "JED",
+      "latitude": "21.670232",
+      "longitude": "39.150579",
+      "city_name": "Jeddah",
+      "name": "King Abdulaziz International Airport",
+      "display_name": "Jeddah (JED), Saudi Arabia",
+      "country_code": "SA",
+      "country": "Saudi Arabia"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "KEF",
+      "latitude": "63.997765",
+      "longitude": "-22.624283",
+      "city_name": "Reykjavik",
+      "name": "Keflavík International Airport",
+      "display_name": "Reykjavik (KEF), Iceland",
+      "country_code": "IS",
+      "country": "Iceland"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "KRK",
+      "latitude": "50.075491",
+      "longitude": "19.793744",
+      "city_name": "Krakow",
+      "name": "Kraków John Paul II International Airport",
+      "display_name": "Krakow (KRK), Poland",
+      "country_code": "PL",
+      "country": "Poland"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "PMO",
+      "latitude": "38.186525",
+      "longitude": "13.104779",
+      "city_name": "Palermo",
+      "name": "Falcone Borsellino Airport",
+      "display_name": "Palermo (PMO), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "PSA",
+      "latitude": "43.698713",
+      "longitude": "10.399915",
+      "city_name": "Pisa",
+      "name": "Pisa International Airport",
+      "display_name": "Pisa (PSA), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SPU",
+      "latitude": "43.536525",
+      "longitude": "16.29946",
+      "city_name": "Split",
+      "name": "Split Airport",
+      "display_name": "Split (SPU), Croatia",
+      "country_code": "HR",
+      "country": "Croatia"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BEG",
+      "latitude": "44.8194",
+      "longitude": "20.2914",
+      "city_name": "Belgrade",
+      "name": "Belgrad Nikola Tesla Airport",
+      "display_name": "Belgrade (BEG), Republic of Serbia",
+      "country_code": "RS",
+      "country": "Republic of Serbia"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CAG",
+      "latitude": "39.254333",
+      "longitude": "9.060673",
+      "city_name": "Cagliari",
+      "name": "Cagliari Elmas Airport",
+      "display_name": "Cagliari (CAG), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "FEZ",
+      "latitude": "33.930791",
+      "longitude": "-4.982138",
+      "city_name": "Fes",
+      "name": "Saiss",
+      "display_name": "Fes (FEZ), Morocco",
+      "country_code": "MA",
+      "country": "Morocco"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "PDL",
+      "latitude": "37.743847",
+      "longitude": "-25.696469",
+      "city_name": "Ponta Delgada (Azores)",
+      "name": "Ponta Delgada",
+      "display_name": "Ponta Delgada (Azores) (PDL), Portugal",
+      "country_code": "PT",
+      "country": "Portugal"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "HKG",
+      "latitude": "22.315248",
+      "longitude": "113.93649",
+      "city_name": "Hong Kong",
+      "name": "Hong Kong International Airport",
+      "display_name": "Hong Kong (HKG), Hong Kong SAR",
+      "country_code": "HK",
+      "country": "Hong Kong SAR"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "IAS",
+      "latitude": "47.176988",
+      "longitude": "27.616993",
+      "city_name": "Iasi",
+      "name": "Iasi",
+      "display_name": "Iasi (IAS), Romania",
+      "country_code": "RO",
+      "country": "Romania"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "ICN",
+      "latitude": "37.448526",
+      "longitude": "126.451234",
+      "city_name": "Seoul",
+      "name": "Incheon Intl",
+      "display_name": "Seoul (ICN), Republic of Korea",
+      "country_code": "KR",
+      "country": "Republic of Korea"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LPL",
+      "latitude": "53.337616",
+      "longitude": "-2.854905",
+      "city_name": "Liverpool",
+      "name": "Liverpool Airport",
+      "display_name": "Liverpool (LPL), United Kingdom",
+      "country_code": "GB",
+      "country": "United Kingdom"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "RIX",
+      "latitude": "56.92208",
+      "longitude": "23.979806",
+      "city_name": "Riga",
+      "name": "Riga International Airport",
+      "display_name": "Riga (RIX), Latvia",
+      "country_code": "LV",
+      "country": "Latvia"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SFO",
+      "latitude": "37.615215",
+      "longitude": "-122.389881",
+      "city_name": "San Francisco",
+      "name": "San Francisco International",
+      "display_name": "San Francisco (SFO), USA",
+      "country_code": "US",
+      "country": "USA"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "COR",
+      "latitude": "-31.315785",
+      "longitude": "-64.211904",
+      "city_name": "Cordoba",
+      "name": "Ambrosio L V Taravella",
+      "display_name": "Cordoba (COR), Argentina",
+      "country_code": "AR",
+      "country": "Argentina"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "WMI",
+      "latitude": "52.451111",
+      "longitude": "20.651667",
+      "city_name": "Modlin",
+      "name": "Warsaw Modlin Airport",
+      "display_name": "Modlin (WMI), Poland",
+      "country_code": "PL",
+      "country": "Poland"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CFU",
+      "latitude": "39.60784",
+      "longitude": "19.914645",
+      "city_name": "Kerkyra",
+      "name": "Corfu International Airport",
+      "display_name": "Kerkyra (CFU), Greece",
+      "country_code": "GR",
+      "country": "Greece"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "KWI",
+      "latitude": "29.240116",
+      "longitude": "47.971251",
+      "city_name": "Kuwait",
+      "name": "Kuwait International",
+      "display_name": "Kuwait (KWI), Kuwait",
+      "country_code": "KW",
+      "country": "Kuwait"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BEY",
+      "latitude": "33.826073",
+      "longitude": "35.493082",
+      "city_name": "Beirut",
+      "name": "Beirut International Airport",
+      "display_name": "Beirut (BEY), Lebanon",
+      "country_code": "LB",
+      "country": "Lebanon"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BRI",
+      "latitude": "41.133881",
+      "longitude": "16.76391",
+      "city_name": "Bari",
+      "name": "Bari Airport",
+      "display_name": "Bari (BRI), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CLO",
+      "latitude": "3.543056",
+      "longitude": "-76.381389",
+      "city_name": "Cali",
+      "name": "Alfonso Bonilla Aragon International",
+      "display_name": "Cali (CLO), Colombia",
+      "country_code": "CO",
+      "country": "Colombia"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BLL",
+      "latitude": "55.747382",
+      "longitude": "9.147874",
+      "city_name": "Billund",
+      "name": "Billund Airport",
+      "display_name": "Billund (BLL), Denmark",
+      "country_code": "DK",
+      "country": "Denmark"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "KUN",
+      "latitude": "54.9675",
+      "longitude": "24.0733",
+      "city_name": "Kaunas",
+      "name": "Kaunas Airport",
+      "display_name": "Kaunas (KUN), Lithuania",
+      "country_code": "LT",
+      "country": "Lithuania"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "WNZ",
+      "latitude": "27.91566",
+      "longitude": "120.847381",
+      "city_name": "Wenzhou",
+      "name": "Wenzhou Yongqiang Airport",
+      "display_name": "Wenzhou (WNZ), China",
+      "country_code": "CN",
+      "country": "China"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LEU",
+      "latitude": "42.341306",
+      "longitude": "1.409573",
+      "city_name": "Seo De Urgel",
+      "name": "Aeroport De La Seu",
+      "display_name": "Seo De Urgel (LEU), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "ESU",
+      "latitude": "31.3975",
+      "longitude": "-9.681667",
+      "city_name": "Essaouira",
+      "name": "Essaouira Airport",
+      "display_name": "Essaouira (ESU), Morocco",
+      "country_code": "MA",
+      "country": "Morocco"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "KUT",
+      "latitude": "42.176389",
+      "longitude": "42.4825",
+      "city_name": "Kutaisi",
+      "name": "Kutaisi",
+      "display_name": "Kutaisi (KUT), Georgia",
+      "country_code": "GE",
+      "country": "Georgia"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "HER",
+      "latitude": "35.33663",
+      "longitude": "25.174193",
+      "city_name": "Heraklion",
+      "name": "Heraklion International Airport",
+      "display_name": "Heraklion (HER), Greece",
+      "country_code": "GR",
+      "country": "Greece"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "JMK",
+      "latitude": "37.436111",
+      "longitude": "25.344444",
+      "city_name": "Mykonos",
+      "name": "Mykonos Airport",
+      "display_name": "Mykonos (JMK), Greece",
+      "country_code": "GR",
+      "country": "Greece"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "JTR",
+      "latitude": "36.404262",
+      "longitude": "25.475983",
+      "city_name": "Thira",
+      "name": "Santorini (Thira) International Airport",
+      "display_name": "Thira (JTR), Greece",
+      "country_code": "GR",
+      "country": "Greece"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "OLB",
+      "latitude": "40.903143",
+      "longitude": "9.514823",
+      "city_name": "Olbia",
+      "name": "Olbia Costa Smeralda Airport",
+      "display_name": "Olbia (OLB), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "XPL",
+      "latitude": "14.416667",
+      "longitude": "-87.616667",
+      "city_name": "Comayagua",
+      "name": "Palmerola Air Base",
+      "display_name": "Comayagua (XPL), Honduras",
+      "country_code": "HN",
+      "country": "Honduras"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SAP",
+      "latitude": "15.456245",
+      "longitude": "-87.927796",
+      "city_name": "San Pedro Sula",
+      "name": "La Mesa International",
+      "display_name": "San Pedro Sula (SAP), Honduras",
+      "country_code": "HN",
+      "country": "Honduras"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SSA",
+      "latitude": "-12.913988",
+      "longitude": "-38.335196",
+      "city_name": "Salvador",
+      "name": "Deputado Luis Eduardo Magalhaes",
+      "display_name": "Salvador (SSA), Brazil",
+      "country_code": "BR",
+      "country": "Brazil"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "TSR",
+      "latitude": "45.809924",
+      "longitude": "21.32012",
+      "city_name": "Timisoara",
+      "name": "Giarmata",
+      "display_name": "Timisoara (TSR), Romania",
+      "country_code": "RO",
+      "country": "Romania"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "RMU",
+      "latitude": "37.803",
+      "longitude": "-1.125",
+      "city_name": "Corvera",
+      "name": "Corvera International Airport",
+      "display_name": "Corvera (RMU), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "NDR",
+      "latitude": "34.992863",
+      "longitude": "-3.026172",
+      "city_name": "Nador",
+      "name": "Nadar",
+      "display_name": "Nador (NDR), Morocco",
+      "country_code": "MA",
+      "country": "Morocco"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CKG",
+      "latitude": "29.7192",
+      "longitude": "106.641998",
+      "city_name": "Chongqing",
+      "name": "Chongqing Jiangbei International Airport",
+      "display_name": "Chongqing (CKG), China",
+      "country_code": "CN",
+      "country": "China"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "AHO",
+      "latitude": "40.630405",
+      "longitude": "8.295891",
+      "city_name": "Alghero",
+      "name": "Alghero",
+      "display_name": "Alghero (AHO), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LXR",
+      "latitude": "25.674919",
+      "longitude": "32.699683",
+      "city_name": "Luxor",
+      "name": "Luxor International",
+      "display_name": "Luxor (LXR), Egypt",
+      "country_code": "EG",
+      "country": "Egypt"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BCM",
+      "latitude": "46.5219",
+      "longitude": "26.910299",
+      "city_name": "Bacau",
+      "name": "Bacau Airport",
+      "display_name": "Bacau (BCM), Romania",
+      "country_code": "RO",
+      "country": "Romania"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BDS",
+      "latitude": "40.657995",
+      "longitude": "17.939053",
+      "city_name": "Brindisi",
+      "name": "Casale",
+      "display_name": "Brindisi (BDS), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BGO",
+      "latitude": "60.289064",
+      "longitude": "5.228169",
+      "city_name": "Bergen",
+      "name": "Bergen Airport",
+      "display_name": "Bergen (BGO), Norway",
+      "country_code": "NO",
+      "country": "Norway"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "BHX",
+      "latitude": "52.452518",
+      "longitude": "-1.733256",
+      "city_name": "Birmingham",
+      "name": "Birmingham Airport",
+      "display_name": "Birmingham (BHX), United Kingdom",
+      "country_code": "GB",
+      "country": "United Kingdom"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LAD",
+      "latitude": "-8.847951",
+      "longitude": "13.234862",
+      "city_name": "Luanda",
+      "name": "Luanda 4 De Fevereiro",
+      "display_name": "Luanda (LAD), Angola",
+      "country_code": "AO",
+      "country": "Angola"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "EIN",
+      "latitude": "51.457953",
+      "longitude": "5.391795",
+      "city_name": "Eindhoven",
+      "name": "Eindhoven Airport",
+      "display_name": "Eindhoven (EIN), Netherlands",
+      "country_code": "NL",
+      "country": "Netherlands"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "ADB",
+      "latitude": "38.294403",
+      "longitude": "27.147594",
+      "city_name": "Izmir",
+      "name": "İzmir Adnan Menderes Airport",
+      "display_name": "Izmir (ADB), Turkiye",
+      "country_code": "TR",
+      "country": "Turkiye"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "AGA",
+      "latitude": "30.328562",
+      "longitude": "-9.410592",
+      "city_name": "Agadir",
+      "name": "Inezgane Airport",
+      "display_name": "Agadir (AGA), Morocco",
+      "country_code": "MA",
+      "country": "Morocco"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "TAS",
+      "latitude": "41.257893",
+      "longitude": "69.281204",
+      "city_name": "Tashkent",
+      "name": "Islam Karimov Tashkent International Airport",
+      "display_name": "Tashkent (TAS), Uzbekistan",
+      "country_code": "UZ",
+      "country": "Uzbekistan"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "STI",
+      "latitude": "19.402928",
+      "longitude": "-70.601868",
+      "city_name": "Santiago",
+      "name": "Cibao International",
+      "display_name": "Santiago (STI), Dominican Republic",
+      "country_code": "DO",
+      "country": "Dominican Republic"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LTN",
+      "latitude": "51.879768",
+      "longitude": "-0.376232",
+      "city_name": "London",
+      "name": "Luton",
+      "display_name": "London (LTN), United Kingdom",
+      "country_code": "GB",
+      "country": "United Kingdom"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "RJL",
+      "latitude": "42.456944",
+      "longitude": "-2.323611",
+      "city_name": "Logrono",
+      "name": "Agoncillo Airport",
+      "display_name": "Logrono (RJL), Spain",
+      "country_code": "ES",
+      "country": "Spain"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SCU",
+      "latitude": "19.969167",
+      "longitude": "-75.835833",
+      "city_name": "Santiago",
+      "name": "Antonio Maceo International",
+      "display_name": "Santiago (SCU), Cuba",
+      "country_code": "CU",
+      "country": "Cuba"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SSG",
+      "latitude": "3.757791",
+      "longitude": "8.716096",
+      "city_name": "Malabo",
+      "name": "Malabo",
+      "display_name": "Malabo (SSG), Equatorial Guinea",
+      "country_code": "GQ",
+      "country": "Equatorial Guinea"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "TSF",
+      "latitude": "45.655113",
+      "longitude": "12.204444",
+      "city_name": "Venice",
+      "name": "Treviso Airport",
+      "display_name": "Venice (TSF), Italy",
+      "country_code": "IT",
+      "country": "Italy"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SJD",
+      "latitude": "23.162354",
+      "longitude": "-109.717283",
+      "city_name": "San Jose Cabo",
+      "name": "Los Cabos International",
+      "display_name": "San Jose Cabo (SJD), Mexico",
+      "country_code": "MX",
+      "country": "Mexico"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "MRU",
+      "latitude": "-20.431998",
+      "longitude": "57.676629",
+      "city_name": "Mauritius",
+      "name": "Sir Seewoosagur Ramgoolam International",
+      "display_name": "Mauritius (MRU), Mauritius",
+      "country_code": "MU",
+      "country": "Mauritius"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "CBB",
+      "latitude": "-17.413954",
+      "longitude": "-66.178896",
+      "city_name": "Cochabamba",
+      "name": "Jorge Wilsterman",
+      "display_name": "Cochabamba (CBB), Bolivia",
+      "country_code": "BO",
+      "country": "Bolivia"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "MCO",
+      "latitude": "28.432177",
+      "longitude": "-81.308301",
+      "city_name": "Orlando",
+      "name": "Orlando International",
+      "display_name": "Orlando (MCO), USA",
+      "country_code": "US",
+      "country": "USA"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "SNU",
+      "latitude": "22.491944",
+      "longitude": "-79.941944",
+      "city_name": "Santa Clara",
+      "name": "Abel Santamaria",
+      "display_name": "Santa Clara (SNU), Cuba",
+      "country_code": "CU",
+      "country": "Cuba"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "LJU",
+      "latitude": "46.23102",
+      "longitude": "14.454972",
+      "city_name": "Ljubljana",
+      "name": "Ljubljana",
+      "display_name": "Ljubljana (LJU), Slovenia",
+      "country_code": "SI",
+      "country": "Slovenia"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "NRT",
+      "latitude": "35.773213",
+      "longitude": "140.387443",
+      "city_name": "Tokyo",
+      "name": "Narita International Airport",
+      "display_name": "Tokyo (NRT), Japan",
+      "country_code": "JP",
+      "country": "Japan"}
+  },
+  {
+    "iata_from": "MAD",
+    "airport": {
+      "IATA": "RMO",
+      "latitude": "46.935442",
+      "longitude": "28.934967",
+      "city_name": "Chisinau",
+      "name": "Chisinau International Airport",
+      "display_name": "Chisinau (RMO), Republic of Moldova",
+      "country_code": "MD",
+      "country": "Republic of Moldova"}
+  }
+]

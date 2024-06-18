@@ -4,6 +4,9 @@
     {
       "type": "Feature",
       "properties": {
+        "title":"Via Piana",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Palazzo_Pubblico_din_San_Marino.jpg/640px-Palazzo_Pubblico_din_San_Marino.jpg",
+        "credits":"<a href='https://commons.wikimedia.org/wiki/File:Palazzo_Pubblico_din_San_Marino.jpg'>Cezar Suceveanu</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0'>CC BY-SA 4.0</a>, via Wikimedia Commons"
         
       },
       "geometry": {
@@ -46,7 +49,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title":"San Marino to Rimini",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SanMarino_to_Regione_Rimini.jpg/640px-SanMarino_to_Regione_Rimini.jpg",
+        "credits":"<a href='https://commons.wikimedia.org/wiki/File:SanMarino_to_Regione_Rimini.jpg'>Rikki Mitterer</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0'>CC BY-SA 4.0</a>, via Wikimedia Commons"
+      },
       "geometry": {
         "coordinates": [
           12.447440370993405,
@@ -72,7 +79,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title":"Parco Don Bosco"
+      },
       "geometry": {
         "coordinates": [
           12.448431953151868,

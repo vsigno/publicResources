@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        
+      },
+      "geometry": {
+        "coordinates": [
+          12.445363639427796,
+          43.93533422935616
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title":"Palazzo Pubblico",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Palazzo_Pubblico_din_San_Marino.jpg/640px-Palazzo_Pubblico_din_San_Marino.jpg",
+        "credits":"<a href='https://commons.wikimedia.org/wiki/File:Palazzo_Pubblico_din_San_Marino.jpg'>Cezar Suceveanu</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0'>CC BY-SA 4.0</a>, via Wikimedia Commons"
+      },
+      "geometry": {
+        "coordinates": [
+          12.445927258003252,
+          43.93678781006557
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title":"Basilica of Saint Marinus",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cathedral_San_Marino_-_Exterior.jpg/628px-Cathedral_San_Marino_-_Exterior.jpg",
+        "credits":"<a href='https://commons.wikimedia.org/wiki/File:Cathedral_San_Marino_-_Exterior.jpg'>Newbio623</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0'>CC BY-SA 4.0</a>, via Wikimedia Commons"
+      },
+      "geometry": {
+        "coordinates": [
+          12.446594940963564,
+          43.93723888935364
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          12.447440370993405,
+          43.93668361273916
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title":"Emilia Romagna",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/RSM-San_Marino004.jpg/640px-RSM-San_Marino004.jpg",
+        "credits":"<a href='https://commons.wikimedia.org/wiki/File:RSM-San_Marino004.jpg'>Szeder László</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0'>CC BY-SA 4.0</a>, via Wikimedia Commons"
+      },
+      "geometry": {
+        "coordinates": [
+          12.440537352970523,
+          43.933319650243476
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          12.448431953151868,
+          43.93917072773124
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

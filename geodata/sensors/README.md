@@ -1,0 +1,1 @@
+Location of the [Bat Sensors](https://connected-environments.org/portfolio/shazamforbats/) in the Queen Elizabeth Olympic Park

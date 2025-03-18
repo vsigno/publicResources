@@ -3,7 +3,7 @@
     - Source: [OpenStreetMap](https://www.openstreetmap.org/), data extract using [OverPass Turbo](https://overpass-turbo.eu/#)
 
 - Athens_Trees.geojson
-    - [ODbL](https://opendatacommons.org/licenses/odbl/1-0/
+    - [ODbL](https://opendatacommons.org/licenses/odbl/1-0/)
     - Source: [OpenStreetMap](https://www.openstreetmap.org/), data extract using [OverPass Turbo](https://overpass-turbo.eu/#)
 
 - Athens_TreesNationalGarden.geojson

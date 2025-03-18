@@ -1,0 +1,3 @@
+- 2024-worldcities-population.csv
+  - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  - Source [SimpleMaps](https://simplemaps.com/data/world-cities)

@@ -1,1 +1,3 @@
-Location of the [Bat Sensors](https://connected-environments.org/portfolio/shazamforbats/) in the Queen Elizabeth Olympic Park
+- `bats.geojson` Location of the [Bat Sensors](https://connected-environments.org/portfolio/shazamforbats/) in the Queen Elizabeth Olympic Park
+
+- [synthetic data] `benches_enriched.geojson` contains the locations of 64 benches in Queen Elizabeth Olympic Park. The locations are loosely based on OpenStreetMap (OSM) data. The GeoJSON also includes synthetic attributes describing bench status and data from a fictional sensor associated with each bench.

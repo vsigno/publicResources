@@ -1,1 +1,285 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":"bridge_01"},"geometry":{"type":"Point","coordinates":[-0.01659,51.544255]}},{"type":"Feature","properties":{"id":"bridge_02"},"geometry":{"type":"Point","coordinates":[-0.016402,51.542995]}},{"type":"Feature","properties":{"id":"bridge_03"},"geometry":{"type":"Point","coordinates":[-0.016434,51.542134]}},{"type":"Feature","properties":{"id":"bridge_04"},"geometry":{"type":"Point","coordinates":[-0.01638,51.541609]}},{"type":"Feature","properties":{"id":"bridge_05"},"geometry":{"type":"Point","coordinates":[-0.014048,51.54133]}},{"type":"Feature","properties":{"id":"bridge_06"},"geometry":{"type":"Point","coordinates":[-0.010581,51.541201]}},{"type":"Feature","properties":{"id":"bridge_07"},"geometry":{"type":"Point","coordinates":[-0.017251,51.541168]}},{"type":"Feature","properties":{"id":"bridge_08"},"geometry":{"type":"Point","coordinates":[-0.020615,51.540843]}},{"type":"Feature","properties":{"id":"bridge_09"},"geometry":{"type":"Point","coordinates":[-0.007159,51.540497]}},{"type":"Feature","properties":{"id":"bridge_10"},"geometry":{"type":"Point","coordinates":[-0.012382,51.540347]}},{"type":"Feature","properties":{"id":"bridge_11"},"geometry":{"type":"Point","coordinates":[-0.020663,51.539555]}},{"type":"Feature","properties":{"id":"bridge_12"},"geometry":{"type":"Point","coordinates":[-0.018636,51.539544]}},{"type":"Feature","properties":{"id":"bridge_13"},"geometry":{"type":"Point","coordinates":[-0.013962,51.539519]}},{"type":"Feature","properties":{"id":"bridge_14"},"geometry":{"type":"Point","coordinates":[-0.010788,51.538389]}},{"type":"Feature","properties":{"id":"bridge_15"},"geometry":{"type":"Point","coordinates":[-0.019485,51.538185]}},{"type":"Feature","properties":{"id":"bridge_16"},"geometry":{"type":"Point","coordinates":[-0.01407,51.537879]}},{"type":"Feature","properties":{"id":"bridge_17"},"geometry":{"type":"Point","coordinates":[-0.010246,51.537524]}},{"type":"Feature","properties":{"id":"bridge_18"},"geometry":{"type":"Point","coordinates":[-0.009328,51.537091]}},{"type":"Feature","properties":{"id":"bridge_19"},"geometry":{"type":"Point","coordinates":[-0.0212,51.536762]}},{"type":"Feature","properties":{"id":"bridge_20"},"geometry":{"type":"Point","coordinates":[-0.012469,51.535766]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_01",
+        "name": "Waterden Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.01659,
+          51.544255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_02",
+        "name": "Halfway Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.016402,
+          51.542995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_03",
+        "name": "Old River Lea Bridge North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.016434,
+          51.542134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_04",
+        "name": "Old River Lea Bridge South"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.01638,
+          51.541609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_05",
+        "name": "Tallow Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.014048,
+          51.54133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_06",
+        "name": "Stratford Walk North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.010581,
+          51.541201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_07",
+        "name": "Bridge 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.017251,
+          51.541168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_08",
+        "name": "Monier Road Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.020615,
+          51.540843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_09",
+        "name": "Montfichet Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.007159,
+          51.540497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_10",
+        "name": "Stratford Walk South"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.012382,
+          51.540347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_11",
+        "name": "Stour Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.020663,
+          51.539555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_12",
+        "name": "Bridge 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.018636,
+          51.539544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_13",
+        "name": "Bridge 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.013962,
+          51.539519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_14",
+        "name": "Thornton Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.010788,
+          51.538389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_15",
+        "name": "Bridge 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.019485,
+          51.538185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_16",
+        "name": "Bridge 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.01407,
+          51.537879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_17",
+        "name": "Iron Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.010246,
+          51.537524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_18",
+        "name": "Waterworks River Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.009328,
+          51.537091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_19",
+        "name": "The Greenway Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0212,
+          51.536762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bridge_20",
+        "name": "Sidings Street Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.012469,
+          51.535766
+        ]
+      }
+    }
+  ]
+}
